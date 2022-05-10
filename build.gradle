@@ -4,6 +4,8 @@ plugins {
 }
 
 android {
+	namespace 'tool.compet.googleauth'
+
 	compileSdk 31
 
 	defaultConfig {
