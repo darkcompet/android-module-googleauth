@@ -44,5 +44,5 @@ dependencies {
 	api project(path: ':android-module-core')
 
 	// Authenticate (login, logout) user with google provider
-	api 'com.google.android.gms:play-services-auth:20.2.0'
+	api 'com.google.android.gms:play-services-auth:20.3.0'
 }
